@@ -1,0 +1,3 @@
+Need to add pop-up showing "This will download the transcription modules (approximately of 200MB) and translation modules (approximately of 900MB) to work.
+Need to add button to modify the model from multilingual mode to english mode only and add description that english only model have higher accuracy as compared to multilingual mode's english transcription. Its recommended to use english only mode for english audios.
+Need to fix the translation mode, only showing first array off the object even tho it is translating whole object whith single/multiple arrays.
