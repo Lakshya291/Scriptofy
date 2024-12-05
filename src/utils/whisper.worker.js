@@ -5,7 +5,7 @@ env.allowLocalModels = false;
 
 class MyTranscriptionPipeline {
 	static task = "automatic-speech-recognition";
-	static model = "Xenova/whisper-base";
+	static model = "Xenova/whisper-base.en";
 	static instance = null;
 
 	static async getInstance(progress_callback = null) {
